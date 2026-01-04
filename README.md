@@ -1,7 +1,7 @@
 # Ecommerce_Business_Analysis
 
 
-### Executive Summary
+## Executive Summary
 
 ##### Business Performance
 •	Generated $7M in revenue from 7,000 orders, supported by a strong ~$1K average order value.
@@ -31,7 +31,7 @@ Strategic Implications
 
 
 
-### Payment Method Performance Analysis
+## Payment Method Performance Analysis
 
 I analyzed customer orders to evaluate the performance of different payment methods based on adoption, revenue contribution, and order outcomes. The analysis reveals which payment options customers prefer, which drive higher spending, and which are more prone to cancellations or returns.
 
