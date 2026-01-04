@@ -14,4 +14,4 @@ These insights can be used to optimize checkout design, prioritize reliable paym
 
 This analysis evaluates payment methods based on usage rate, average order value, revenue contribution, and order outcomes (completed, cancelled, returned). It highlights which payment options customers prefer, which drive higher spending, and which may introduce operational risk.
 
-https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/4192d24eea8cc2e990cbc2b335af3e800bbfc67d/Payment%20Method.png
+![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/4192d24eea8cc2e990cbc2b335af3e800bbfc67d/Payment%20Method.png)
