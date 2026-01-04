@@ -27,7 +27,7 @@ Strategic Implications
 •	Operational focus should prioritize Q4 readiness, particularly inventory, supplier capacity, and marketing investment.
 •	High dependence on top SKUs and key states introduces concentration risk, warranting diversification initiatives.
 
-![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/887e8ef5f4807c03afcfc54e4001f4ef6bd2f592/Executive%20Dashboard.png)
+![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/f0f2196393828c138c7a6edec220afb5aecd5c02/Executive%20Dashboard.png)
 
 
 
