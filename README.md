@@ -27,7 +27,8 @@ Strategic Implications
 •	Operational focus should prioritize Q4 readiness, particularly inventory, supplier capacity, and marketing investment.
 •	High dependence on top SKUs and key states introduces concentration risk, warranting diversification initiatives.
 
-![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/4192d24eea8cc2e990cbc2b335af3e800bbfc67d/Payment%20Method.png)
+![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/887e8ef5f4807c03afcfc54e4001f4ef6bd2f592/Executive%20Dashboard.png)
+
 
 
 ### Payment Method Performance Analysis
