@@ -27,7 +27,7 @@ Strategic Implications
 •	Operational focus should prioritize Q4 readiness, particularly inventory, supplier capacity, and marketing investment.
 •	High dependence on top SKUs and key states introduces concentration risk, warranting diversification initiatives.
 
-![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/887e8ef5f4807c03afcfc54e4001f4ef6bd2f592/Executive%20Dashboard.png)
+![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/f0f2196393828c138c7a6edec220afb5aecd5c02/Executive%20Dashboard.png)
 
 
 
@@ -44,3 +44,23 @@ These insights can be used to optimize checkout design, prioritize reliable paym
 This analysis evaluates payment methods based on usage rate, average order value, revenue contribution, and order outcomes (completed, cancelled, returned). It highlights which payment options customers prefer, which drive higher spending, and which may introduce operational risk.
 
 ![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/4192d24eea8cc2e990cbc2b335af3e800bbfc67d/Payment%20Method.png)
+
+
+
+## Sales Performance
+
+
+![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/main/Sales%20Performance.png)
+
+
+
+## Product & Inventory
+
+
+![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/main/Product%20%26%20Inventory.png)
+
+
+
+## Orders & Fulfillment
+
+![Sales and Revenue](https://github.com/raphaelsimon9/Ecommerce_Business_Analysis/blob/main/Orders%20%26%20Fulfillment.png)
